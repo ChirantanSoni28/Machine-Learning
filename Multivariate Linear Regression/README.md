@@ -31,7 +31,7 @@
         On Application of Linear Regression model on the sample data following output is generated.
         Below is the convergence of J function, also the predicted value of house with area of 1650 sq meters and 3 bedrooms.
         
-     ![J Convergence Graph](https://github.com/ChirantanSoni28/Machine-Learning/blob/master/Multivariate%20Linear%20Regression/Jconverge.png)
+   ![J Convergence Graph](https://github.com/ChirantanSoni28/Machine-Learning/blob/master/Multivariate%20Linear%20Regression/Jconverge.png)
         
   ## Prediction
         
