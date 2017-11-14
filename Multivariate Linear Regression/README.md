@@ -26,3 +26,13 @@
         The point of all this is that if we start with a guess for our hypothesis 
         and then repeatedly apply these gradient descent equations, 
         our hypothesis will become more and more accurate.
+        
+  ### Output:
+        On Application of Linear Regression model on the sample data following output is generated.
+        Below is the convergence of J function, also the predicted value of house with area of 1650 sq meters and 3 bedrooms.
+        
+        ![J Convergence Graph]()
+        
+  ##Prediction
+        
+        The predicted price for the house is $293081
