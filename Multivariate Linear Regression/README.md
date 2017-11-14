@@ -1,5 +1,4 @@
-### Multivariate Linear Regression | Gradient Descent | Normal Equation
-
+### Multivariate Linear Regression | Gradient Descent 
         A Linear regression predicts a real-valued output based on an input value.
         The target variable in a problem that we want to predict should be continuous, 
         to use linear regression for prediction.
